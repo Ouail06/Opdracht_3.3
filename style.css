@@ -1,0 +1,27 @@
+table{
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: medium;
+    min-width: 400px;
+}
+
+table thead tr{
+    background-color: blue;
+    color: white;
+    text-align: left;
+    font-weight: bold;
+}
+table th {
+    padding: 12px 15px;
+}
+table td{
+    padding: 12px 15px;
+}
+ tbody tr{
+    border-bottom: 1px;
+    background-color: gray;
+   
+}
+tbody tr{
+    border-bottom: 2px solid blue;
+}
